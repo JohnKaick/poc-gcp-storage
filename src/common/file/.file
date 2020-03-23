@@ -1,0 +1,4 @@
+1 - Pasta só serve para deixar arquivos temporarios;
+2 - Antes de enviar para GCP;
+3 - Porque o mesmo não aceitar buffer em tempo de sessão;
+4 - Apenas arquivos salvo em api local e passando o "path" como parametro;
